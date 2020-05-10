@@ -1,0 +1,65 @@
+﻿/* Header */
+@media (max-width: 375px) {
+    .header .header-content .head {
+        font-size: 21px !important;
+        margin-top: -117px !important;
+    }
+}
+@media (min-width: 376px) and (max-width: 768px) {
+    .header .header-content .head {
+        font-size: 29px !important;
+    }
+}
+/* About */
+@media (max-width: 375px) {
+    .head {
+        font-size: 33px !important;
+    }
+    .about .describe p {
+        font-size: 17px !important;
+    }
+    .about .describe {
+        text-align: center !important;
+        padding-top: 15px !important;
+    }
+}
+@media (min-width: 376px) and (max-width: 768px) {
+    .head {
+        font-size: 36px !important;
+    }
+    .about .describe p {
+        font-size: 18px !important;
+    }
+    .about .describe {
+        padding-top: 50px !important;
+    }
+}
+/* Footer */
+@media (max-width: 768px) {
+    .footer .address {
+        font-size: 17px !important;
+    }
+}
+/* Project Page */
+@media (max-width: 768px) {
+    .project-d .projectDetails p {
+        font-size: 15px !important;
+    }
+    .project-d .head {
+        font-size: 26px !important;
+    }
+}
+@media (max-width: 320px) {
+    .ui-card-slider {
+        width: 100% !important;
+    }
+}
+/* Post Page */
+@media (max-width: 768px) {
+    .post p {
+        font-size: 15px !important;
+    }
+    .post .head {
+        font-size: 20px !important;
+    }
+}
